@@ -96,7 +96,7 @@ starlette==0.38.2
 sympy==1.13.2
 thinc==8.2.5
 tomlkit==0.12.0
-torch==2.4.0
+torch==2.8.0
 torchaudio==2.4.0
 tqdm==4.66.5
 triton==3.0.0
