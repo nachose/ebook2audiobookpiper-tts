@@ -92,7 +92,7 @@ spacy==3.7.6
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
-starlette==0.38.2
+starlette==1.0.1
 sympy==1.13.2
 thinc==8.2.5
 tomlkit==0.12.0
