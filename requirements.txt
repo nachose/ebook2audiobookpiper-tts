@@ -68,7 +68,7 @@ pillow==12.2.0
 piper-phonemize==1.1.0
 piper-tts==1.2.0
 preshed==3.0.9
-protobuf==5.28.0
+protobuf==5.29.6
 pydantic==2.8.2
 pydantic_core==2.20.1
 pydub==0.25.1
